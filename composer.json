@@ -1,0 +1,14 @@
+{
+    "name": "noc-med/zf2-base58",
+    "description": "Zend Framework 2 Base58",
+    "homepage": "http://www.noc.com.tr",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "dev-master"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "ZfBase58" : "src/"
+        }
+    }
+}
