@@ -15,7 +15,7 @@ Add this project in your composer.json:
 
 Examples
 =====================================
-Default use of SEO Url
+Default use of Zf2Base58
 ------------
 ```php
 $base58 = $this->getServiceLocator()->get('ZfBase58');
