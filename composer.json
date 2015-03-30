@@ -3,8 +3,7 @@
     "description": "Zend Framework 2 Base58",
     "homepage": "http://www.noc.com.tr",
     "require": {
-        "php": ">=5.3",
-        "zendframework/zendframework": "2.3.*"
+        "php": ">=5.3"
     },
     "autoload" : {
         "psr-0" : {
