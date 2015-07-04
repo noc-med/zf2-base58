@@ -1,5 +1,5 @@
 {
-    "name": "noc-med/zf2-base58",
+    "name": "nocvp/zf2-base58",
     "description": "Zend Framework 2 Base58",
     "homepage": "http://www.noc.com.tr",
     "require": {
